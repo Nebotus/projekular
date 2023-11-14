@@ -10,7 +10,7 @@ Snake Game ini merupakan game dimana anda akan mengontrol ular untuk bergerak da
 
 3. extract seluruh filenya kedalam vscode
 
-4. pastikan snack.py dan png yang di download ada di dalam file yang sama 
+4. pastikan snack.py dan png yang di download ada di dalam folder yang sama 
 
 5. aturkan snake speed sesuai dengan yang kalian inginkan(baris 5)
 
