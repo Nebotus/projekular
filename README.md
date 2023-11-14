@@ -24,4 +24,6 @@ Snake Game ini merupakan game dimana anda akan mengontrol ular untuk bergerak da
 
 2. tunggu sebentar sampai muncul window dari snake.py
 
-3. gunakan tombol arrow atas bawah kiri atas untuk mengarahkan ular kalian 
+3. gunakan tombol arrow atas bawah kiri atas untuk mengarahkan ular kalian
+
+4. makan apel sebanyaknya dan hindari tepi window agar tidak game over
